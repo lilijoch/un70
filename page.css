@@ -61,7 +61,6 @@ textarea {
 
 #shadow {
   background: transparent url(/facebox/shadow.gif) repeat-y scroll right top;
-  border-bottom: 1px solid #ddd;
   margin: 2px 0px 0px 1px;
   padding: 0;
 }
