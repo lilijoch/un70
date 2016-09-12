@@ -46,12 +46,12 @@ li {
   color: white; 
   font-size: 20px; 
   padding: 20px; 
-  width: 500px; 
+  width: 1000px; 
 }
 
 textarea {
   height: 400px;
-  width: 600px;
+  width: 1000px;
 }
 
 #main {
