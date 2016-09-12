@@ -74,7 +74,7 @@ $.fn.s3Slider = function(vars) {
   }
 
   function fadeOut(item,span){
-    span.fadeOut('slow',function(){
+    span.fadeOut('fast',function(){
       item.fadeOut(fadeTime,function(){
         slide()//=> fadeIn
       })
