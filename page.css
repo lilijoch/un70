@@ -56,7 +56,7 @@ textarea {
 
 #main {
   margin: 0 auto;
-  width: 1000px;
+  width: 1100px;
 }
 
 #shadow {
@@ -67,9 +67,6 @@ textarea {
 }
 
 #content {
-  border-color: #333 #B7B7B7 rgb(59, 89, 152);
-  border-style: none solid solid;
-  border-width: medium 1px 1px;
   margin: -2px 1px 0px -1px;
   padding: 20px;
 }
