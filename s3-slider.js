@@ -18,8 +18,8 @@
 $.fn.s3Slider = function(vars) {
   vars = vars || {};
   var $slider     = $(this);
-  var timeout     = vars.timeout || vars.timeOut || 6000;//timeOut is deprecated...
-  var fadeTime    = vars.fadeTime || 1000;
+  var timeout     = vars.timeout || vars.timeOut || 1000;//timeOut is deprecated...
+  var fadeTime    = vars.fadeTime || 500;
   var current     = 0;
   var mouseOver   = false;
   var items       = $(".slide", $slider);
